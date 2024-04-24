@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffc2a0;
+}
+.todo-alignment {
+  display: flex;
+  justify-content: center;
+}
+.card-container {
+  background-color: #ffffff;
+  height: 2000px;
+  width: 900px;
+  border-radius: 10px;
+  margin-top: 100px;
+}
+.card-alignment {
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  color: #ff8542;
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.align {
+  display: flex;
+  flex-direction: column;
+}
+.todo-input {
+  height: 30px;
+  width: 500px;
+  font-size: 16px;
+  margin-left: 50px;
+}
+.add-button {
+  margin-top: 20px;
+  height: 50px;
+  width: 80px;
+  margin-left: 50px;
+  background-color: #036bfc;
+  color: #ffffff;
+  font-weight: 500;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+}
